@@ -1,4 +1,4 @@
-# Budget Forecasting Application with Machine Learning and Power BI Integration
+# Aplicación de Pronóstico Presupuestario con Machine Learning e Integración Power BI
 
 **Prueba el modelo [aquí](https://aplicacion-inteligente-para-el-pronostico-de-presupuesto-empre.streamlit.app/):**
 
