@@ -302,9 +302,11 @@ with tab7:
                 st.error("2. Asegúrate de que los nombres de las características coincidan con las expectativas del modelo")
                 st.error(f"Detalles técnicos: {str(e)}")
 
-# Pie de página
+# ==============================================
+# PIE DE PÁGINA
+# ==============================================
 st.markdown("---")
 st.markdown("""
-**Portafolio de Ciencia de Datos** - Desarrollado por Bo Kolstrup  
-[GitHub](https://github.com/bokolstrup) | [LinkedIn](https://linkedin.com/in/bokolstrup/)
+**Portafolio de Ciencia de Datos** - Desarrollado por [Bo Kolstrup]  
+[GitHub](https://github.com/Bokols) | [LinkedIn](https://www.linkedin.com/in/bo-kolstrup/)
 """)
