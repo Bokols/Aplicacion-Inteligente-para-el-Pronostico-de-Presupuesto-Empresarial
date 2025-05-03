@@ -306,5 +306,5 @@ with tab7:
 st.markdown("---")
 st.markdown("""
 **Portafolio de Ciencia de Datos** - Desarrollado por Bo Kolstrup  
-[GitHub](https://github.com/bokolstrup) | [LinkedIn](https://linkedin.com/in/bokolstrup)
+[GitHub](https://github.com/bokolstrup) | [LinkedIn](https://linkedin.com/in/bokolstrup/)
 """)
