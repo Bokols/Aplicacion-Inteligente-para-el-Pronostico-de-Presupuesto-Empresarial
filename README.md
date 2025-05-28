@@ -2,6 +2,10 @@
 
 **Prueba el modelo [aquí](https://aplicacion-inteligente-para-el-pronostico-de-presupuesto-empre.streamlit.app/):**
 
+## Resumen
+Este proyecto crea una aplicación de pronóstico presupuestario que usa machine learning para predecir costos y ganancias con alta precisión. Integra visualizaciones automáticas en Power BI y una API para facilitar su uso en empresas. Destaca la importancia de variables clave como márgenes de ganancia y costos de transporte, y automatiza el análisis financiero para mejorar la planificación y toma de decisiones.
+
+
 ## Introducción
 Este proyecto desarrolla una aplicación inteligente de pronóstico presupuestario para empresas, integrando técnicas avanzadas de machine learning, análisis exploratorio de datos y modelado predictivo de series temporales. Al limpiar, transformar y modelar dos grandes conjuntos de datos financieros (costos e ingresos), la solución estima con precisión los costos totales y la utilidad neta, identificando patrones, anomalías y variables clave que impactan el presupuesto.
 
